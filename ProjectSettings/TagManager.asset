@@ -6,7 +6,6 @@ TagManager:
   tags:
   - PuntoA
   - PuntoB
-  - Enemy
   layers:
   - Default
   - TransparentFX
@@ -14,9 +13,9 @@ TagManager:
   - 
   - Water
   - UI
-  - Player
-  - Enemy
-  - Collectable
+  - 
+  - 
+  - 
   - 
   - 
   - 
